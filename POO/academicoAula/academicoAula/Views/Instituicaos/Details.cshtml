@@ -1,0 +1,63 @@
+﻿@model academicoAula.Models.Instituicao
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_LayoutIES.cshtml";
+}
+
+@section Styles{
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/font-awesome/css/fontawesome.min.css" />
+    </environment>
+
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" asp-fallback-href="~/lib/font-awesome/css/fontawesome.css" asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    </environment>
+}
+
+<div class="container my-5">
+
+    <div class="card border-0 shadow-lg">
+        <div class="card-header text-dark text-center h1 border-0">
+            Detalhes da Instituição
+        </div>
+        <div class="card-body">
+            <div class="form-group">
+                <label asp-for="InstituicaoID" class="control-label"></label>
+                <br />
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">
+                            <i class="fa fa-key" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <input asp-for="InstituicaoID" class="form-control" disabled="disabled" />
+                </div>
+                <label asp-for="Nome" class="control-label"></label>
+                <br />
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">
+                            <i class="fa fa-user-circle" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <input asp-for="Nome" class="form-control" disabled="disabled" />
+                </div>
+                <label asp-for="Endereco" class="control-label"></label>
+                <br />
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">
+                            <i class="fa fa-home" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <input asp-for="Endereco" class="form-control" disabled="disabled" />
+                </div>
+            </div>
+        </div>
+        <div class="card-footer d-flex justify-content-between border-0">
+            <a asp-action="Index" class="btn btn-light mr-auto">Voltar a lista</a>
+            <a asp-action="Edit" asp-route-id="@Model.InstituicaoID" class="btn btn-outline-success ml-auto">Editar</a>
+        </div>
+    </div>
+</div>

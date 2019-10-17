@@ -1,0 +1,41 @@
+﻿@model academicoAula.Models.Instituicao
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_LayoutIES.cshtml";
+}
+
+<div class="container my-5">
+
+    <div class="card border-0 shadow-lg">
+        <div class="card-header text-dark text-center h1 border-0">
+            Registrando uma nova Instituição
+        </div>
+        <div class="card-body">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Nome" class="control-label"></label>
+                    <input asp-for="Nome" class="form-control" />
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Endereco" class="control-label"></label>
+                    <input asp-for="Endereco" class="form-control" />
+                    <span asp-validation-for="Endereco" class="text-danger"></span>
+                </div>
+                <div class="form-group justify-content-between d-flex">
+                    <a asp-action="Index" class="btn btn-light mr-auto">Voltar à lista</a>
+                    <input type="submit" value="Criar" class="btn btn-success ml-auto" />
+                </div>
+            </form>
+        </div>
+        <div class="card-footer text-center text-muted border-0">
+            Informe os dados acima e/ou clique em um dos botões de ação.
+        </div>
+    </div>
+</div>
+
+@section ScriptPage{ 
+    @{  await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}

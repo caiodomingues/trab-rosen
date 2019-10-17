@@ -1,0 +1,36 @@
+﻿@model academicoAula.Models.Instituicao
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_LayoutIES.cshtml";
+}
+<div class="container my-5">
+
+    <h2>Deletando a Instituiçao</h2>
+
+    <h3>Você tem certeza que deseja deletar a instituição?</h3>
+    <div>
+        <h4>Instituicao</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Nome)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Nome)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Endereco)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Endereco)
+            </dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="InstituicaoID" />
+            <input type="submit" value="Deletar" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-light">Voltar a lista</a>
+        </form>
+    </div>
+</div>

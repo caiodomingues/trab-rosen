@@ -1,0 +1,86 @@
+c:\users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.csproj.CoreCompileInputs.cache
+c:\users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorAssemblyInfo.cache
+c:\users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorAssemblyInfo.cs
+c:\users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.AssemblyInfoInputs.cache
+c:\users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.AssemblyInfo.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.deps.json
+C:\Users\201700596\source\repos\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.runtimeconfig.json
+C:\Users\201700596\source\repos\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.runtimeconfig.dev.json
+C:\Users\201700596\source\repos\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.dll
+C:\Users\201700596\source\repos\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.pdb
+C:\Users\201700596\source\repos\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.Views.dll
+C:\Users\201700596\source\repos\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.Views.pdb
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.csprojAssemblyReference.cache
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.TagHelpers.input.cache
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.TagHelpers.output.cache
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorCoreGenerate.cache
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutIES.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorTargetAssemblyInfo.cache
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorTargetAssemblyInfo.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.Views.pdb
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.dll
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.pdb
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.csproj.CopyComplete
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Create.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Delete.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Details.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Edit.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Index.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Create.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Delete.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Details.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Edit.g.cshtml.cs
+C:\Users\201700596\source\repos\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Index.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.deps.json
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.runtimeconfig.json
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.dll
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.pdb
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.Views.dll
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\bin\Debug\netcoreapp2.1\academicoAula.Views.pdb
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorAssemblyInfo.cache
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorAssemblyInfo.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.TagHelpers.input.cache
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.TagHelpers.output.cache
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorCoreGenerate.cache
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Create.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Delete.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Details.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Edit.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Index.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Create.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Delete.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Details.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Edit.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Instituicaos\Index.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutIES.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.RazorTargetAssemblyInfo.cs
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.Views.pdb
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.dll
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.pdb
+C:\Users\Carlos\Desktop\Caio\Desenvolvimento\GitHub\trab-rosen\TrabalhoRosen - 07-10\academicoAula\academicoAula\obj\Debug\netcoreapp2.1\academicoAula.csproj.CopyComplete
